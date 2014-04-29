@@ -1,0 +1,6 @@
+{
+  "main": "xsl.js",
+  "dependencies": {
+    "node_xslt": "^0.1.9"
+  }
+}

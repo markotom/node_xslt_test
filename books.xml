@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book>
+    <title>Genealogía de la moral</title>
+    <author>Nietzsche, Friedrich</author>
+    <year>1985</year>
+  </book>
+  <book>
+    <title>Humano, demasiado humano</title>
+    <author>Nietzsche, Friedrich</author>
+    <year>1998</year>
+  </book>
+  <book>
+    <title>El modo de existencia de los objetos técnicos</title>
+    <author>Simondon, Gilbert</author>
+    <year>1974</year>
+  </book>
+  <book>
+    <title>La obra de arte en la época de su reproductibilidad técnica</title>
+    <author>Benjamin, Walter</author>
+    <year>1951</year>
+  </book>
+</library>
